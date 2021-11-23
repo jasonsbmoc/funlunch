@@ -1,2 +1,2 @@
-# funlunch.github.io
-just testing for now
+# fun lunch
+just a simple pure HTML list of very good graphic designers
